@@ -1,3 +1,4 @@
+#Python program to play the game Rock, Paper, Scissors
 import random
 
 game_list=['rock','paper','scissors']
